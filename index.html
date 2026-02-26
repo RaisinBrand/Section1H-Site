@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UC Divestment History Project</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="hero-content">
+        <h1 class="hero-title">UC Divestment Section 1H</h1>
+        <h2 class="hero-subtitle">Timeline and information...</h2>
+        <p class="hero-description">
+          Some arbitrary text maybe
+        </p>
+      </div>
+    </section>
+
+    <!-- Timeline Section -->
+    <section class="timeline-section">
+      <div class="container">
+        <h2 class="section-title">Timeline</h2>
+        <p class="section-subtitle">clik on any event to learn more</p>
+
+        <!-- Timeline Container -->
+        <div class="timeline">
+          <!-- Timeline Line -->
+          <div class="timeline-line"></div>
+
+          <!-- Timeline Events -->
+          <div class="timeline-events">
+            <!-- Event 1 -->
+            <div class="timeline-event" data-year="2014" data-id="1">
+              <div class="event-dot"></div>
+              <div class="event-content">
+                <div class="event-year">Feb 2024</div>
+                <div class="event-title">UCLA?</div>
+              </div>
+            </div>
+
+            <!-- Event 2 -->
+            <div class="timeline-event" data-year="2015" data-id="2">
+              <div class="event-dot"></div>
+              <div class="event-content">
+                <div class="event-year">March 2024</div>
+                <div class="event-title">Student Protests</div>
+              </div>
+            </div>
+
+            <!-- Event 3 -->
+            <div class="timeline-event" data-year="2016" data-id="3">
+              <div class="event-dot"></div>
+              <div class="event-content">
+                <div class="event-year">March 2025</div>
+                <div class="event-title">Funding?</div>
+              </div>
+            </div>
+
+            <!-- Event 4 -->
+            <div class="timeline-event" data-year="2017" data-id="4">
+              <div class="event-dot"></div>
+              <div class="event-content">
+                <div class="event-year">2031</div>
+                <div class="event-title">Alien Invasion</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Modal for Event Details -->
+    <div class="modal" id="eventModal">
+      <div class="modal-content">
+        <span class="modal-close">&times;</span>
+        <h3 class="modal-title" id="modalTitle"></h3>
+        <p class="modal-year" id="modalYear"></p>
+        <div class="modal-body" id="modalBody"></div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <p></p>
+      </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+  </body>
+</html>
