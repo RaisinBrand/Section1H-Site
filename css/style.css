@@ -430,3 +430,86 @@ body {
     width: 95%;
   }
 }
+
+
+.investments-section {
+  padding: 64px 0;
+}
+
+.mini-title {
+  margin: 24px 0 12px;
+  font-size: 1.1rem;
+}
+
+.source-list, .key-points {
+  margin: 10px 0 0;
+  padding-left: 18px;
+}
+
+.source-list li, .key-points li {
+  margin: 8px 0;
+}
+
+.quote-box {
+  margin-top: 18px;
+  padding: 16px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.quote-text {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.quote-cite {
+  margin: 10px 0 0;
+  opacity: 0.8;
+  font-size: 0.95rem;
+}
+
+.table-wrap {
+  margin-top: 28px;
+}
+
+.table-scroll {
+  overflow-x: auto;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.investments-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 720px; /* forces horizontal scroll on small screens */
+}
+
+.investments-table th,
+.investments-table td {
+  padding: 14px 14px;
+  vertical-align: top;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+}
+
+.investments-table thead th {
+  position: sticky;
+  top: 0;
+  background: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(6px);
+  text-align: left;
+}
+
+.table-note {
+  margin-top: 10px;
+  opacity: 0.8;
+  font-size: 0.95rem;
+}
+
+.article-image {
+  width: 100%;
+  max-width: 700px;
+  border-radius: 10px;
+  margin: 20px auto;
+  display: block;
+}
