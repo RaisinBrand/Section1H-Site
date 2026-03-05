@@ -5,12 +5,12 @@
 const timelineData = {
   1: {
     year: '2014',
-    title: 'Initial Calls for Divestment',
+    title: 'UC Anti-Apartheid Divestment',
     description: `
-      <p>Student organizations across UC campuses began organizing campaigns calling for the University to divest from fossil fuel companies and other controversial industries. This marked the beginning of a sustained movement that would grow over the following years.</p>
-      <p>Key moments included the formation of student coalitions, initial proposals to student government bodies, and early advocacy efforts directed at university administration and the Board of Regents.</p>
-      <p>These initial calls laid the groundwork for broader organizing efforts and helped establish divestment as a central issue for student activism across the UC system.</p>
-    `
+      
+    
+      <p> Insert click here to learn more    
+      `
   },
   2: {
     year: '2015',
