@@ -12,21 +12,20 @@ const timelineData = {
       `
   },
   2: {
-    year: '2015',
-    title: 'Student Protests',
+    year: '1985',
+    title: 'Cornell Anti-Apartheid',
     description: `
-      <p>Building on momentum from the previous year, students organized large-scale protests, demonstrations, and sit-ins to demand action on divestment. Protests took place at multiple UC campuses and at Board of Regents meetings.</p>
-      <p>Student activists employed various tactics including petition drives that gathered thousands of signatures, coordinated social media campaigns, and direct engagement with university officials.</p>
-      <p>The movement gained significant media attention and support from faculty members, alumni, and community organizations, increasing pressure on university leadership to respond to student demands.</p>
+      <p>The media plays a crucial role in shaping public perception of student divestment campaigns, but the coverage of UC divestment campaigns over the years has vastly changed. During the Vietnam War and South African Apartheid, student activists were framed as heroic and intellectual changemakers. However, with the 2024 Palestine protests, students were depicted in the media as disruptive and antisemetic.</p>
     `
   },
   3: {
-    year: '2016',
-    title: 'Administrative Response',
+    year: '2012',
+    title: 'Fossil Fuel UC Divestment',
     description: `
-      <p>University administrators and the Board of Regents began formally responding to student demands. This included establishing committees to study the feasibility of divestment, holding public forums, and releasing statements addressing the concerns raised by students.</p>
-      <p>While some viewed these initial responses as progress, many student activists felt the administration's approach was insufficient and designed to delay meaningful action rather than implement substantive policy changes.</p>
-      <p>This period saw continued dialogue between students and administration, with both sides presenting research, economic analyses, and ethical arguments to support their positions.</p>
+      <p>Starting 2012, UC students began organizing and formed Fossil Free UC
+      In 2019, the UC Academic Senate voted overwhelmingly to formally appeal to the Board of Regents to divest
+      On May 19, 2020, UC announced full divestment from fossil fuels
+      </p>
     `
   },
   4: {
