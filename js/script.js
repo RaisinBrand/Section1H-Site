@@ -4,12 +4,11 @@
 
 const timelineData = {
   1: {
-    year: '2014',
-    title: 'UC Anti-Apartheid Divestment',
+    year: '1967',
+    title: 'Vietnam Divestment',
     description: `
       
-    
-      <p> Insert click here to learn more    
+      <p>The Vietnam War had a drastic fiscal toll that began to cannibalize the funds available to support </p>
       `
   },
   2: {
