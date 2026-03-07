@@ -29,12 +29,18 @@ const timelineData = {
     `
   },
   4: {
-    year: '2017',
-    title: 'Policy Changes',
+    year: '2024',
+    title: 'UCLA Tent Cities',
     description: `
-      <p>After years of sustained pressure, the University began implementing concrete policy changes related to investment practices. These changes represented a significant shift in how the UC system approached its investment portfolio.</p>
-      <p>New policies included enhanced screening processes for investments, increased transparency in reporting, and in some cases, actual divestment from specific industries or companies identified as problematic.</p>
-      <p>While activists celebrated these changes as victories resulting from their organizing efforts, debates continued about the scope and implementation of the new policies, with many calling for more comprehensive reforms.</p>
+      <p> It explains how tent city encamp disrupt normal operations, and sustain divestment and accountability campaigns.ments on campuses have become a key student tactic, including at UCLA, because they build community, disrupt normal operations, and sustain divestment and accountability campaigns.</p>
+    `
+  },
+  5: {
+    year: '2024',
+    title: 'UCLA Palestine Soliditary',
+    description: `
+      <p>Beginning in spring 2024, UC students launched encampments and protests to divest from firms with ties to the Israeli military occupation of Palestine
+Still an ongoing event, with for and against responses from the UC throughout.</p>
     `
   }
 };
