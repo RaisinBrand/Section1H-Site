@@ -12,13 +12,20 @@ const timelineData = {
       `
   },
   2: {
+    year: '1984',
+    title: 'UC Anti-Apartheid',
+    description: `
+      <p>Neoliberalism can be found in the very academic spaces that teach us about it. Universities take part in investments of oppression while teaching students about its impact. It’s specious to expect students not to rise up against the modern oppressive systems they are witnessing.</p>
+    `
+  },
+  3: {
     year: '1985',
     title: 'Cornell Anti-Apartheid',
     description: `
       <p>The media plays a crucial role in shaping public perception of student divestment campaigns, but the coverage of UC divestment campaigns over the years has vastly changed. During the Vietnam War and South African Apartheid, student activists were framed as heroic and intellectual changemakers. However, with the 2024 Palestine protests, students were depicted in the media as disruptive and antisemetic.</p>
     `
   },
-  3: {
+  4: {
     year: '2012',
     title: 'Fossil Fuel UC Divestment',
     description: `
@@ -28,14 +35,14 @@ const timelineData = {
       </p>
     `
   },
-  4: {
+  5: {
     year: '2024',
     title: 'UCLA Tent Cities',
     description: `
       <p> It explains how tent city encamp disrupt normal operations, and sustain divestment and accountability campaigns.ments on campuses have become a key student tactic, including at UCLA, because they build community, disrupt normal operations, and sustain divestment and accountability campaigns.</p>
     `
   },
-  5: {
+  6: {
     year: '2024',
     title: 'UCLA Palestine Soliditary',
     description: `
