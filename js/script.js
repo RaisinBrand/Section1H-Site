@@ -49,7 +49,15 @@ const timelineData = {
       <p>Beginning in spring 2024, UC students launched encampments and protests to divest from firms with ties to the Israeli military occupation of Palestine
 Still an ongoing event, with for and against responses from the UC throughout.</p>
     `
-  }
+  },
+
+  7: {
+    year: '2026',
+    title: 'UCLA Palestine Soliditary',
+    description: `
+      <p> Students across the UC, and especially UCLA, today have continued organizing for divestment through the UC Divest Coalition, with current active campaigns focused largely on divestment from Blackstone, the world’s largest “landlord” and private equity firm generally.</p>
+    `
+  },
 };
 
 // ===================================
